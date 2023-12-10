@@ -1,0 +1,8 @@
+.header__wrapper {
+  @extend .--wrapper !optional;
+  color: red;
+}
+
+.header__container {
+  max-width: $max-page-width;
+}
