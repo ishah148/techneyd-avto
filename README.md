@@ -1,1 +1,0 @@
-# techneyd-avto
